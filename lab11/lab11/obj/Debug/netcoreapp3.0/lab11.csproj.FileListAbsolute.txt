@@ -1,0 +1,37 @@
+D:\Univer\2 курс\ООП\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.exe
+D:\Univer\2 курс\ООП\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.deps.json
+D:\Univer\2 курс\ООП\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.runtimeconfig.json
+D:\Univer\2 курс\ООП\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.runtimeconfig.dev.json
+D:\Univer\2 курс\ООП\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.dll
+D:\Univer\2 курс\ООП\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.pdb
+D:\Univer\2 курс\ООП\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.csprojAssemblyReference.cache
+D:\Univer\2 курс\ООП\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.AssemblyInfoInputs.cache
+D:\Univer\2 курс\ООП\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.AssemblyInfo.cs
+D:\Univer\2 курс\ООП\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.dll
+D:\Univer\2 курс\ООП\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.pdb
+C:\Users\Егор\Desktop\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.exe
+C:\Users\Егор\Desktop\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.deps.json
+C:\Users\Егор\Desktop\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.runtimeconfig.json
+C:\Users\Егор\Desktop\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.runtimeconfig.dev.json
+C:\Users\Егор\Desktop\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.dll
+C:\Users\Егор\Desktop\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.pdb
+C:\Users\Егор\Desktop\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.AssemblyInfo.cs
+C:\Users\Егор\Desktop\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.dll
+C:\Users\Егор\Desktop\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.pdb
+C:\Users\Егор\Desktop\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.genruntimeconfig.cache
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.csprojAssemblyReference.cache
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.AssemblyInfoInputs.cache
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.AssemblyInfo.cs
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.csproj.CoreCompileInputs.cache
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.dll
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.pdb
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.exe
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.deps.json
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.runtimeconfig.json
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.runtimeconfig.dev.json
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.dll
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\bin\Debug\netcoreapp3.0\lab11.pdb
+D:\лабы\2 курс\ООП\Лабы\lab11\lab11\obj\Debug\netcoreapp3.0\lab11.genruntimeconfig.cache
